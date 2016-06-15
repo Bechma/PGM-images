@@ -1,0 +1,3 @@
+still reachable: 72,704 bytes in 1 blocks
+
+Es un bug de GCC 5.1 según he investigado.
